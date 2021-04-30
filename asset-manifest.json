@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "./static/js/main.37c40757.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.2b1f8bb2.js",
+    "static/js/2.279f795f.chunk.js": "./static/js/2.279f795f.chunk.js",
+    "static/js/3.b6f4ea1f.chunk.js": "./static/js/3.b6f4ea1f.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.279f795f.chunk.js.LICENSE.txt": "./static/js/2.279f795f.chunk.js.LICENSE.txt",
+    "static/media/1inch.png": "./static/media/1inch.44215be7.png",
+    "static/media/aave.svg": "./static/media/aave.d8c491f3.svg",
+    "static/media/bal.svg": "./static/media/bal.e7a75ce2.svg",
+    "static/media/cel.svg": "./static/media/cel.0ba911ad.svg",
+    "static/media/comp.svg": "./static/media/comp.8a4a96da.svg",
+    "static/media/control.17b30344.svg": "./static/media/control.17b30344.svg",
+    "static/media/copy.55baa90c.svg": "./static/media/copy.55baa90c.svg",
+    "static/media/fida.svg": "./static/media/fida.17360818.svg",
+    "static/media/gear.fa2abb13.svg": "./static/media/gear.fa2abb13.svg",
+    "static/media/getFetch.cjs": "./static/media/getFetch.d7d6010d.cjs",
+    "static/media/grt.svg": "./static/media/grt.b056d5f3.svg",
+    "static/media/hxro.jpg": "./static/media/hxro.b4e30553.jpg",
+    "static/media/lqid.svg": "./static/media/lqid.bbdfbf59.svg",
+    "static/media/maps.svg": "./static/media/maps.a0de8ee4.svg",
+    "static/media/msrm.svg": "./static/media/msrm.76f0306b.svg",
+    "static/media/paxg.svg": "./static/media/paxg.8ace88d0.svg",
+    "static/media/ray.svg": "./static/media/ray.7236f7f4.svg",
+    "static/media/robot-top-bar.97da677d.svg": "./static/media/robot-top-bar.97da677d.svg",
+    "static/media/rsr.svg": "./static/media/rsr.1ff249a4.svg",
+    "static/media/rune.png": "./static/media/rune.feae1051.png",
+    "static/media/send.e0c19883.svg": "./static/media/send.e0c19883.svg",
+    "static/media/srm.svg": "./static/media/srm.5afb2c35.svg",
+    "static/media/tv-tutorial-1.97321b95.png": "./static/media/tv-tutorial-1.97321b95.png",
+    "static/media/tv-tutorial-2.07c04517.png": "./static/media/tv-tutorial-2.07c04517.png",
+    "static/media/tv-tutorial-3.a3c1769e.png": "./static/media/tv-tutorial-3.a3c1769e.png",
+    "static/media/ubxt.png": "./static/media/ubxt.f11e645f.png",
+    "static/media/usdc.svg": "./static/media/usdc.ee0410ca.svg",
+    "static/media/yfi.svg": "./static/media/yfi.da52d18e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b1f8bb2.js",
+    "static/js/2.279f795f.chunk.js",
+    "static/js/main.37c40757.chunk.js"
+  ]
+}
