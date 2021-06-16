@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "./static/js/main.7ffe68ba.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.03698ed0.js",
-    "static/js/2.c9429c75.chunk.js": "./static/js/2.c9429c75.chunk.js",
-    "static/js/3.e7bbe8a1.chunk.js": "./static/js/3.e7bbe8a1.chunk.js",
+    "main.js": "./static/js/main.08eef736.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.d9af29e7.js",
+    "static/js/2.a8667d83.chunk.js": "./static/js/2.a8667d83.chunk.js",
+    "static/js/3.b0d92e78.chunk.js": "./static/js/3.b0d92e78.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.c9429c75.chunk.js.LICENSE.txt": "./static/js/2.c9429c75.chunk.js.LICENSE.txt",
+    "static/js/2.a8667d83.chunk.js.LICENSE.txt": "./static/js/2.a8667d83.chunk.js.LICENSE.txt",
     "static/media/1inch.png": "./static/media/1inch.44215be7.png",
     "static/media/aave.svg": "./static/media/aave.d8c491f3.svg",
     "static/media/bal.svg": "./static/media/bal.e7a75ce2.svg",
@@ -36,8 +36,8 @@
     "static/media/yfi.svg": "./static/media/yfi.da52d18e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03698ed0.js",
-    "static/js/2.c9429c75.chunk.js",
-    "static/js/main.7ffe68ba.chunk.js"
+    "static/js/runtime-main.d9af29e7.js",
+    "static/js/2.a8667d83.chunk.js",
+    "static/js/main.08eef736.chunk.js"
   ]
 }
