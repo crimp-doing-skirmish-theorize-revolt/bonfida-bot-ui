@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.758e164f.chunk.css",
-    "main.js": "./static/js/main.72e2c8e9.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.e45f8d3c.js",
-    "static/js/2.147ccb47.chunk.js": "./static/js/2.147ccb47.chunk.js",
-    "static/js/3.ce835cff.chunk.js": "./static/js/3.ce835cff.chunk.js",
+    "main.js": "./static/js/main.992a4317.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.6e22207a.js",
+    "static/js/2.ecf5e15e.chunk.js": "./static/js/2.ecf5e15e.chunk.js",
+    "static/js/3.acf4fdbb.chunk.js": "./static/js/3.acf4fdbb.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.147ccb47.chunk.js.LICENSE.txt": "./static/js/2.147ccb47.chunk.js.LICENSE.txt",
+    "static/js/2.ecf5e15e.chunk.js.LICENSE.txt": "./static/js/2.ecf5e15e.chunk.js.LICENSE.txt",
     "static/media/1inch.png": "./static/media/1inch.44215be7.png",
     "static/media/aave.svg": "./static/media/aave.d8c491f3.svg",
     "static/media/arrow-down.bed7d577.svg": "./static/media/arrow-down.bed7d577.svg",
@@ -18,6 +18,7 @@
     "static/media/bottom-light.937ba70e.svg": "./static/media/bottom-light.937ba70e.svg",
     "static/media/cel.svg": "./static/media/cel.0ba911ad.svg",
     "static/media/close.230ab530.svg": "./static/media/close.230ab530.svg",
+    "static/media/coin98.0d794589.png": "./static/media/coin98.0d794589.png",
     "static/media/comp.svg": "./static/media/comp.8a4a96da.svg",
     "static/media/control.17b30344.svg": "./static/media/control.17b30344.svg",
     "static/media/copy.55baa90c.svg": "./static/media/copy.55baa90c.svg",
@@ -44,9 +45,9 @@
     "static/media/yfi.svg": "./static/media/yfi.da52d18e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e45f8d3c.js",
-    "static/js/2.147ccb47.chunk.js",
+    "static/js/runtime-main.6e22207a.js",
+    "static/js/2.ecf5e15e.chunk.js",
     "static/css/main.758e164f.chunk.css",
-    "static/js/main.72e2c8e9.chunk.js"
+    "static/js/main.992a4317.chunk.js"
   ]
 }
